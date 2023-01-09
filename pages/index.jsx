@@ -23,7 +23,7 @@ function Home() {
               Contact Ana
             </Link>
           </div>
-
+          yarn add --dev @types/sharp
           <div className="image-wrapper">
             <svg
               width="426"
