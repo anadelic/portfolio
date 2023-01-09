@@ -20,7 +20,7 @@ function Home() {
             <p className="description">Front-End Developer based in Vienna.</p>
 
             <Link href="/contact" className="cta">
-              Kontak Ana
+              Contact Ana
             </Link>
           </div>
 
