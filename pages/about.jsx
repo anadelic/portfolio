@@ -16,10 +16,7 @@ function About() {
             <h1 data-cy="pageTitle" className="title">
               About
             </h1>
-            <p className="description">
-              Hi, I am Ana. I used to be a lawyer but I fell in love with coding
-              and I am on my way learning it.
-            </p>
+            <p className="description">Hi, I am Ana.</p>
           </div>
         </div>
       </section>
